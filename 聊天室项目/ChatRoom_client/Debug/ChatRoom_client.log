@@ -1,0 +1,17 @@
+﻿  CMySocket.cpp
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(81): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(97): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  ChatBox.cpp
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(81): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(97): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  ChatRoom_client.cpp
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(81): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(97): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  ChatRoom_clientDlg.cpp
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(81): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(97): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  RegisterBox.cpp
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(81): warning C4091: “typedef ”: 没有声明变量时忽略“MESSAGECONTENT”的左侧
+e:\c源码\聊天室项目 版本1\chatroom_client\data.h(97): warning C4091: “typedef ”: 没有声明变量时忽略“TOONE”的左侧
+  正在生成代码...
+  ChatRoom_client.vcxproj -> E:\c源码\聊天室项目 版本1\Debug\ChatRoom_client.exe
